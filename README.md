@@ -4,7 +4,7 @@
 
 ## Visually Compare Models Performance In a Graph
 
-01. [DL-Churn-Prediction-Classification-with-ANN-Project](./DL_Assignment_1_(Classification_with_ANN_Churn_Prediction)_Student.ipynb)
+01. [DL-Churn-Prediction-Classification-with-ANN-Project](./DL_Assignment-1-(Classification_with_ANN_Churn_Prediction)-Student.ipynb)
 
 <div align='center'>
 
