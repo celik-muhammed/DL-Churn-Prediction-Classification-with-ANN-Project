@@ -1,16 +1,20 @@
-# DL-fashion_mnist1-Image-Classification-with-CNN-Project
-
 ### [Go to Projects Page](https://github.com/celik-muhammed/15CS-Deep-Learning-Case-Studies-with-Python/blob/master/README.md)
-
-## Visually Compare Models Performance In a Graph
 
 01. [DL-Churn-Prediction-Classification-with-ANN-Project](./DL_Assignment-1-(Classification_with_ANN_Churn_Prediction)-Student.ipynb)
 
 <div align='center'>
 
-<img src='https://i.ibb.co/F6C4Jwt/download.png' alt='' width=80%, height=500>
-<img src='https://i.ibb.co/FgMhRG8/download.png' alt='' width=90%, height=300>
-<img src='https://i.ibb.co/PzfQ9b6/download.png' alt='' width=90%, height=300>
+## Visually Compare Models Performance In a Graph
+  
+<img src='https://i.ibb.co/J5MR12L/download.png' alt='' width=950%, height=400>
+  <br>
+<img src='https://i.ibb.co/4N5j7mb/download.png' alt='' width=80%, height=400>
+  <br>
+<img src='https://i.ibb.co/JQyGZ4g/download.png' alt='' width=80%, height=400>
+  <br>
+<img src='https://i.ibb.co/tJqQFz1/download.png' alt='' width=80%, height=350>
+  <br>
+<img src='https://i.ibb.co/pQHYHJJ/download.png' alt='' width=80%, height=350>
 </div>
 
 <!-- 
