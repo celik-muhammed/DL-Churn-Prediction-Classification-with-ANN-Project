@@ -17,10 +17,11 @@
 <img src='https://i.ibb.co/pQHYHJJ/download.png' alt='' width=80%, height=350>
 </div>
 
-<!-- 
-- [Fashion-MNIST with tf.Keras](https://blog.tensorflow.org/2018/04/fashion-mnist-with-tfkeras.html)
-- [Fashion MNIST dataset, an alternative to MNIST](https://keras.io/api/datasets/fashion_mnist/) -->
+#### Classification
+- [Basic classification: Classify images of clothing](https://www.tensorflow.org/tutorials/keras/classification)
+- [Classification on imbalanced data](https://www.tensorflow.org/tutorials/structured_data/imbalanced_data)
 
+#### Regression
 - [Regression with a deep neural network (DNN)](https://www.tensorflow.org/tutorials/keras/regression#regression_with_a_deep_neural_network_dnn)
 - [Basic regression: Predict fuel efficiency](https://www.tensorflow.org/tutorials/keras/regression)
 - [Keras: Regression losses](https://keras.io/api/losses/regression_losses/)
